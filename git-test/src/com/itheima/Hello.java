@@ -10,8 +10,7 @@ public class Hello {
         System.out.println("你好呀");
         int i= 10;
         System.out.println(2323);
-        System.out.println(2323);
-        System.out.println(2323);
+
 
     }
 }
