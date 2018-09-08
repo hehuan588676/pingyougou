@@ -12,8 +12,6 @@ public class Hello {
         System.out.println(2323);
         System.out.println(2323);
         System.out.println(2323);
-        System.out.println(2323);
-        System.out.println(2323);
-        System.out.println(2323);
+
     }
 }
